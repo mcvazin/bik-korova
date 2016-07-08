@@ -2,6 +2,8 @@
 <<<<<<< HEAD
 first commit
 from local
+
+second edit
 =======
 
 first commit
